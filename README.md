@@ -11,13 +11,11 @@ spring boot + spring cloud alibaba +nacos +redis +nginx +xxl-job+EMQ+docker+k8s
 
 1. down the code
 2. 你需要一个自己的云服务或者虚拟机来搭建所需要的软件架构
-3. 
+3. 配置中的文件只会给出模板
 
 #### 使用说明
 
-1. xxxx
-2. xxxx
-3. xxxx
+1. 随意魔改
 
 #### 参与贡献
 
